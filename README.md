@@ -1,6 +1,6 @@
-# 💸 PersonalAssistantAI
+# 💸 PersonalAssistantAgent
 
-**PersonalAssistantAI** is an AI-powered personal finance assistant that helps users track expenses, stay within their monthly budget, and receive smart savings recommendations—all through natural language. Built with large language models like OpenAI's GPT, this tool adds intelligence and conversation to your budgeting app.
+**PersonalAssistantAgent** is an AI-powered personal finance assistant that helps users track expenses, stay within their monthly budget, and receive smart savings recommendations—all through natural language. Built with large language models like OpenAI's GPT, this tool adds intelligence and conversation to your budgeting app.
 
 ---
 
