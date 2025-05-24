@@ -28,7 +28,7 @@ router.post("/recommend", async (req, res) => {
       budgetCheck: await agent.chat.getAIRecommendation(budgetCheck),
       suggestedSavings: await agent.chat.getAIRecommendation(suggestedSavings),
       lifestyle: await agent.chat.getAIRecommendation(lifestyle),
-      aiAdvice: await agent.chat.getRecommendation(),
+      generalAdvice: await agent.chat.getRecommendation(),
     };
 
     res.json(result);
